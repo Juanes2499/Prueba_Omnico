@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\juane\\OneDrive\\Documentos\\Personal\\Omnicon\\OmniconApp\\OmniconApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\juane\\OneDrive\\Documentos\\Personal\\Omnicon\\OmniconApp\\OmniconApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\juane\\OneDrive\\Documentos\\Personal\\Omnicon\\OmniconApp\\OmniconApp.csproj",
+        "projectName": "OmniconApp",
+        "projectPath": "C:\\Users\\juane\\OneDrive\\Documentos\\Personal\\Omnicon\\OmniconApp\\OmniconApp.csproj",
+        "packagesPath": "C:\\Users\\juane\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juane\\OneDrive\\Documentos\\Personal\\Omnicon\\OmniconApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\juane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tecnoquimicas.pkgs.visualstudio.com/0468231a-f1d0-4672-a772-1696f80fc9d0/_packaging/autocadenavalortest/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

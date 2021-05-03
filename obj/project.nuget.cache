@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qM1Hh2GTzreQTi+XQfqw0jKoju4ONyG9iCeAjT2roUiHHEM25RXy+xietZAwLHGsBo378A8/aeyoHSvhlJtGxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\juane\\OneDrive\\Documentos\\Personal\\Omnicon\\OmniconApp\\OmniconApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juane\\.nuget\\packages\\entityframework\\6.2.0\\entityframework.6.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

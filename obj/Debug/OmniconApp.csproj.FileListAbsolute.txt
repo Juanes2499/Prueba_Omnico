@@ -1,0 +1,15 @@
+C:\Users\juane\OneDrive\Documentos\Personal\Omnicon\OmniconApp\bin\Debug\OmniconApp.exe.config
+C:\Users\juane\OneDrive\Documentos\Personal\Omnicon\OmniconApp\bin\Debug\OmniconApp.exe
+C:\Users\juane\OneDrive\Documentos\Personal\Omnicon\OmniconApp\bin\Debug\OmniconApp.pdb
+C:\Users\juane\OneDrive\Documentos\Personal\Omnicon\OmniconApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\juane\OneDrive\Documentos\Personal\Omnicon\OmniconApp\bin\Debug\EntityFramework.dll
+C:\Users\juane\OneDrive\Documentos\Personal\Omnicon\OmniconApp\obj\Debug\OmniconApp.csprojAssemblyReference.cache
+C:\Users\juane\OneDrive\Documentos\Personal\Omnicon\OmniconApp\obj\Debug\OmniconApp.Properties.Resources.resources
+C:\Users\juane\OneDrive\Documentos\Personal\Omnicon\OmniconApp\obj\Debug\OmniconApp.csproj.GenerateResource.cache
+C:\Users\juane\OneDrive\Documentos\Personal\Omnicon\OmniconApp\obj\Debug\OmniconApp.csproj.CoreCompileInputs.cache
+C:\Users\juane\OneDrive\Documentos\Personal\Omnicon\OmniconApp\obj\Debug\OmniconApp.csproj.CopyComplete
+C:\Users\juane\OneDrive\Documentos\Personal\Omnicon\OmniconApp\obj\Debug\OmniconApp.exe
+C:\Users\juane\OneDrive\Documentos\Personal\Omnicon\OmniconApp\obj\Debug\OmniconApp.pdb
+C:\Users\juane\OneDrive\Documentos\Personal\Omnicon\OmniconApp\obj\Debug\OmniconApp.Views.Products.resources
+C:\Users\juane\OneDrive\Documentos\Personal\Omnicon\OmniconApp\obj\Debug\OmniconApp.Views.Products_NewRegister.resources
+C:\Users\juane\OneDrive\Documentos\Personal\Omnicon\OmniconApp\obj\Debug\OmniconApp.Views.Products_deleteNotification.resources
